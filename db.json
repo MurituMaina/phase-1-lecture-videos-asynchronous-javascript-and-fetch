@@ -1,0 +1,52 @@
+{"animalData":[
+    {
+        "names":"Red Panda",
+        "imageUrl": "https://i0.wp.com/plantbasednews.org/wp-content/uploads/2022/06/plant-based-news-red-panda-extinction.jpg?fit=1600%2C900&ssl=1",
+       "descriptions": "Animals are fun to have and good to jeep",
+        "donations": 0
+        },
+
+        {
+        "names":"Pangolin",
+        "imageUrl": "https://cdn.britannica.com/41/124241-050-9027A8EF/Pangolin.jpg",
+       "descriptions": "Animals are fun to have and good to jeep",
+        "donations": 0
+        },
+        {
+         
+        "names":"Mantis Shrimp",
+        "imageUrl": "https://media.wired.com/photos/60300b7b091d7b01b7e2080b/191:100/w_2400,h_1256,c_limit/Science_mantisshrimp-1061398692.jpg",
+       "descriptions": "Animals are fun to have and good to jeep",
+        "donations": 0
+        },
+      
+        {
+       "names":"Gibbon",
+        "imageUrl": "https://i.natgeofe.com/k/4c7ec745-129f-42dd-8f15-09b37699f613/gibbon-tan-18778051_3x4.jpg",
+       "descriptions": "Animals are fun to have and good to jeep",
+        "donations": 0
+        },
+        
+        {
+            "names":"Gibbon",
+             "imageUrl": "https://i.natgeofe.com/k/4c7ec745-129f-42dd-8f15-09b37699f613/gibbon-tan-18778051_3x4.jpg",
+            "descriptions": "Animals are fun to have and good to jeep",
+             "donations": 0
+             },
+
+             {
+                "names":"Gibbon",
+                 "imageUrl": "https://i.natgeofe.com/k/4c7ec745-129f-42dd-8f15-09b37699f613/gibbon-tan-18778051_3x4.jpg",
+                "descriptions": "Animals are fun to have and good to jeep",
+                 "donations": 0
+                 },
+        
+        {
+            
+        "names":"Wormbat",
+        "imageUrl": "https://cdn.britannica.com/22/65322-050-5AA2B60C/Common-wombat.jpg",
+       "descriptions": "Animals are fun to have and good to jeep",
+        "donations": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+.card{
+    display: block;
+    margin:auto;
+    background-color: white;
+    color:black;
+    width: 75%;
+    box-sizing: border-box;
+    box-shadow: none;
+    
+
+}
+img{
+    width:300px;
+}
+li{
+    border-radius: 20px black solid;
+
+}
