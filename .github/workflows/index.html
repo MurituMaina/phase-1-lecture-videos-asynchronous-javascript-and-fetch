@@ -5,16 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <link rel="stylesheet" href="/styles.css">
+    <!-- <script src="./index.js"></script> -->
     <title>Document</title>
 </head>
 <body>
-    <div id="head" style="background-color: green; height:40px; padding:1px;"><h2>KENYA Nchi Yetu!!</h2></div>
+    <div id="head" style="background-color: green; height:40px; padding:1px;">KENYA Nchi Yetu!!</div>
     <input type="button" value="Check!"/>
     <div class="container">
-        <form id="animal-form"></form>
+        <form id="animal-form" action="/" method="post" enctype="multipart/form-data" >
+            <label for="name">Animal Name</label><br/>
+            <input type="text" id="name"/><br/>
+            <label for="image_url">Image Url</label><br/>
+            <input type="text" id="image_url"><br>
+            <label for="descriptions">Descriptions</label><br/>
+            <input type="text" id="descriptions"><br>
+            <input type="submit" value="Adopt Animal">
+            <!-- <button type="submit">Adopt Animal</buttton> -->
+        </form>
         <ul id="animal-list" class="card"></ul>
         My animals go up here</div>
-    <script src="/data.js"></script>
-    <script defer src="./index.js"></script>
+    <!-- <script src="/data.js"></script> -->
+    <script src="./index.js"></script>
 </body>
 </html> 

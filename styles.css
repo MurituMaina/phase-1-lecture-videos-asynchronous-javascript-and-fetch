@@ -1,9 +1,11 @@
 body{
     background-color: white;
+    /* color:red; */
+    
 }
 .card{
     display: block;
-    margin:auto;
+    margin:20px auto;
     background-color: white;
     color:black;
     width: 75%;
@@ -18,4 +20,27 @@ img{
 li{
     border-radius: 20px black solid;
 
+}
+form{
+    display:block;
+    margin:auto;
+    /* width:25%; */
+    border:1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    color:black
+    
+}
+/* button[type=submit] */
+input[type=submit],input[type=button]{
+    background-color: green;
+    color: white;
+    /* margin-top:10px;
+    margin-left:auto; */
+    margin: 05px auto;
+}
+#head{
+    color:white;
+    text-align: center;
+    
 }
